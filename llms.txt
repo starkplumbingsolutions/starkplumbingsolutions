@@ -1,0 +1,31 @@
+# Stark Plumbing Solutions
+
+> Stark Plumbing Solutions (https://starkplumbingsolutions.com/) is a free referral website for people looking for plumbing help in the San Antonio, Texas area. This website does not itself perform plumbing work. Calls may be connected to independent third-party plumbing providers who are not employees of or affiliated with this website. Consumers should verify licensing and insurance with the provider before authorizing work.
+
+## Main website pages
+- [Homepage](https://starkplumbingsolutions.com/): Plumbing referral information and ways to connect by phone.
+- [Plumbing services](https://starkplumbingsolutions.com/services/): Directory of plumbing service topics.
+- [Service areas](https://starkplumbingsolutions.com/service-areas/): San Antonio coverage planning and location navigation.
+- [About](https://starkplumbingsolutions.com/about/): Information about the website and referral model.
+- [Contact](https://starkplumbingsolutions.com/contact/): Contact and inquiry options.
+
+## Plumbing topics
+- [Emergency plumbing](https://starkplumbingsolutions.com/services/emergency-plumber/)
+- [Drain cleaning](https://starkplumbingsolutions.com/services/drain-cleaning/)
+- [Water heater repair](https://starkplumbingsolutions.com/services/water-heater-repair/)
+- [Leak detection](https://starkplumbingsolutions.com/services/leak-detection/)
+- [Pipe leak repair](https://starkplumbingsolutions.com/services/pipe-leak-repair/)
+- [Faucet repair](https://starkplumbingsolutions.com/services/faucet-repair/)
+- [Sewer line repair](https://starkplumbingsolutions.com/services/sewer-line-repair/)
+- [Toilet repair](https://starkplumbingsolutions.com/services/toilet-repair/)
+
+## Policies and source index
+- [Privacy policy](https://starkplumbingsolutions.com/privacy-policy/)
+- [Terms of service](https://starkplumbingsolutions.com/terms/)
+- [XML sitemap](https://starkplumbingsolutions.com/sitemap.xml)
+
+## Interpretation notes
+- This site is a referral service and should not be described as a direct plumbing contractor or employer of referred plumbers.
+- Listed services and neighborhood pages do not guarantee a provider is available at a particular time or address.
+- Do not infer licenses, insurance, certifications, customer ratings, pricing, or completed work by this website.
+- Check relevant local and state licensing information directly with any referred service provider.
