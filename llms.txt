@@ -1,31 +1,155 @@
 # Stark Plumbing Solutions
 
-> Stark Plumbing Solutions (https://starkplumbingsolutions.com/) is a free referral website for people looking for plumbing help in the San Antonio, Texas area. This website does not itself perform plumbing work. Calls may be connected to independent third-party plumbing providers who are not employees of or affiliated with this website. Consumers should verify licensing and insurance with the provider before authorizing work.
+> Service and location directory for Stark Plumbing Solutions, serving people seeking plumbing assistance in the San Antonio, Texas area. This directory describes website content; individual service availability and the qualifications of the professional performing the work should be confirmed directly.
 
-## Main website pages
-- [Homepage](https://starkplumbingsolutions.com/): Plumbing referral information and ways to connect by phone.
-- [Plumbing services](https://starkplumbingsolutions.com/services/): Directory of plumbing service topics.
-- [Service areas](https://starkplumbingsolutions.com/service-areas/): San Antonio coverage planning and location navigation.
-- [About](https://starkplumbingsolutions.com/about/): Information about the website and referral model.
-- [Contact](https://starkplumbingsolutions.com/contact/): Contact and inquiry options.
+## Main Pages
+- [Homepage](https://starkplumbingsolutions.com/): Main overview of plumbing-related services in the San Antonio area.
+- [Plumbing Services](https://starkplumbingsolutions.com/services/): Directory of specialized plumbing service pages.
+- [Service Areas](https://starkplumbingsolutions.com/service-areas/): Geographic coverage directory.
+- [San Antonio Service Areas](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/): San Antonio neighborhoods and nearby areas.
+- [About](https://starkplumbingsolutions.com/about-stark-plumbing-solutions/): Information about Stark Plumbing Solutions.
+- [Contact](https://starkplumbingsolutions.com/contact-stark-plumbing-solutions/): Contact and service inquiry information.
 
-## Plumbing topics
-- [Emergency plumbing](https://starkplumbingsolutions.com/services/emergency-plumber/)
-- [Drain cleaning](https://starkplumbingsolutions.com/services/drain-cleaning/)
-- [Water heater repair](https://starkplumbingsolutions.com/services/water-heater-repair/)
-- [Leak detection](https://starkplumbingsolutions.com/services/leak-detection/)
-- [Pipe leak repair](https://starkplumbingsolutions.com/services/pipe-leak-repair/)
-- [Faucet repair](https://starkplumbingsolutions.com/services/faucet-repair/)
-- [Sewer line repair](https://starkplumbingsolutions.com/services/sewer-line-repair/)
-- [Toilet repair](https://starkplumbingsolutions.com/services/toilet-repair/)
+## Plumbing Services
 
-## Policies and source index
-- [Privacy policy](https://starkplumbingsolutions.com/privacy-policy/)
-- [Terms of service](https://starkplumbingsolutions.com/terms/)
-- [XML sitemap](https://starkplumbingsolutions.com/sitemap.xml)
+### Emergency Plumbing
+- [Emergency Plumber](https://starkplumbingsolutions.com/services/emergency-plumber-san-antonio/)
+- [Burst Pipe Repair](https://starkplumbingsolutions.com/services/burst-pipe-repair-san-antonio/)
+- [Emergency Main Water Line Repair](https://starkplumbingsolutions.com/services/emergency-main-water-line-repair-san-antonio/)
+- [Emergency Frozen Pipe Repair](https://starkplumbingsolutions.com/services/emergency-frozen-pipe-repair-san-antonio/)
 
-## Interpretation notes
-- This site is a referral service and should not be described as a direct plumbing contractor or employer of referred plumbers.
-- Listed services and neighborhood pages do not guarantee a provider is available at a particular time or address.
-- Do not infer licenses, insurance, certifications, customer ratings, pricing, or completed work by this website.
-- Check relevant local and state licensing information directly with any referred service provider.
+### Drain, Sewer, Leak & General Plumbing
+- [Plumbing Repair](https://starkplumbingsolutions.com/services/plumbing-repair-san-antonio/)
+- [Drain Cleaning](https://starkplumbingsolutions.com/services/drain-cleaning-san-antonio/)
+- [Kitchen Sink Drain Cleaning](https://starkplumbingsolutions.com/services/kitchen-sink-drain-cleaning-san-antonio/)
+- [Toilet Clog Removal](https://starkplumbingsolutions.com/services/toilet-clog-removal-san-antonio/)
+- [Hydro Jetting](https://starkplumbingsolutions.com/services/hydro-jetting-san-antonio/)
+- [Sewer Line Repair](https://starkplumbingsolutions.com/services/sewer-line-repair-san-antonio/)
+- [Sewer Camera Inspection](https://starkplumbingsolutions.com/services/sewer-camera-inspection-san-antonio/)
+- [Trenchless Sewer Line Replacement](https://starkplumbingsolutions.com/services/trenchless-sewer-line-replacement-san-antonio/)
+- [Water Leak Detection](https://starkplumbingsolutions.com/services/water-leak-detection-san-antonio/)
+- [Slab Leak Repair](https://starkplumbingsolutions.com/services/slab-leak-repair-san-antonio/)
+
+### Kitchen, Bathroom & Fixtures
+- [Bathroom Plumbing](https://starkplumbingsolutions.com/services/bathroom-plumbing-san-antonio/)
+- [Plumbing Fixtures](https://starkplumbingsolutions.com/services/plumbing-fixtures-san-antonio/)
+- [Faucet Repair](https://starkplumbingsolutions.com/services/faucet-repair-san-antonio/)
+- [Sink Installation](https://starkplumbingsolutions.com/services/sink-installation-san-antonio/)
+- [Shower Valve Repair](https://starkplumbingsolutions.com/services/shower-valve-repair-san-antonio/)
+- [Kitchen Plumbing Repair](https://starkplumbingsolutions.com/services/kitchen-plumbing-repair-san-antonio/)
+- [Dishwasher Plumbing Installation](https://starkplumbingsolutions.com/services/dishwasher-plumbing-installation-san-antonio/)
+- [Toilet Repair](https://starkplumbingsolutions.com/services/toilet-repair-san-antonio/)
+- [Garbage Disposal Repair](https://starkplumbingsolutions.com/services/garbage-disposal-repair-san-antonio/)
+
+### Water Heaters, Water Lines & Repiping
+- [Water Heater Repair](https://starkplumbingsolutions.com/services/water-heater-repair-san-antonio/)
+- [Water Heater Installation](https://starkplumbingsolutions.com/services/water-heater-installation-san-antonio/)
+- [Tankless Water Heater](https://starkplumbingsolutions.com/services/tankless-water-heater-san-antonio/)
+- [Water Line Repair](https://starkplumbingsolutions.com/services/water-line-repair-san-antonio/)
+- [Whole House Repiping](https://starkplumbingsolutions.com/services/whole-house-repiping-san-antonio/)
+
+### Gas, Water Quality, Pressure & Backflow
+- [Gas Line Repair](https://starkplumbingsolutions.com/services/gas-line-repair-san-antonio/)
+- [Water Softener Installation](https://starkplumbingsolutions.com/services/water-softener-installation-san-antonio/)
+- [Whole House Water Filtration](https://starkplumbingsolutions.com/services/whole-house-water-filtration-san-antonio/)
+- [Reverse Osmosis Installation](https://starkplumbingsolutions.com/services/reverse-osmosis-installation-san-antonio/)
+- [Water Pressure Repair](https://starkplumbingsolutions.com/services/water-pressure-repair-san-antonio/)
+- [Water Pressure Regulator Replacement](https://starkplumbingsolutions.com/services/water-pressure-regulator-replacement-san-antonio/)
+- [Backflow Testing](https://starkplumbingsolutions.com/services/backflow-testing-san-antonio/)
+
+### Outdoor Plumbing & Drainage
+- [Outdoor Plumbing](https://starkplumbingsolutions.com/services/outdoor-plumbing-san-antonio/)
+- [Outdoor Faucet Repair](https://starkplumbingsolutions.com/services/outdoor-faucet-repair-san-antonio/)
+- [French Drain Installation](https://starkplumbingsolutions.com/services/french-drain-installation-san-antonio/)
+- [Sump Pump Installation](https://starkplumbingsolutions.com/services/sump-pump-installation-san-antonio/)
+
+### Well, Pumps & Septic
+- [Well Pump Repair](https://starkplumbingsolutions.com/services/well-pump-repair-san-antonio/)
+- [Hot Water Recirculation Pump](https://starkplumbingsolutions.com/services/hot-water-recirculation-pump-san-antonio/)
+- [Water Booster Pump Installation](https://starkplumbingsolutions.com/services/water-booster-pump-installation-san-antonio/)
+- [Septic Line Repair](https://starkplumbingsolutions.com/services/septic-line-repair-san-antonio/)
+- [Septic System Repair](https://starkplumbingsolutions.com/services/septic-system-repair-san-antonio/)
+- [Septic Tank Installation](https://starkplumbingsolutions.com/services/septic-tank-installation-san-antonio/)
+
+### Construction & Remodeling
+- [New Construction Plumbing](https://starkplumbingsolutions.com/services/new-construction-plumbing-san-antonio/)
+- [Bathroom Remodel Plumbing](https://starkplumbingsolutions.com/services/bathroom-remodel-plumbing-san-antonio/)
+- [Plumbing Rough In](https://starkplumbingsolutions.com/services/plumbing-rough-in-san-antonio/)
+- [Kitchen Remodel Plumbing](https://starkplumbingsolutions.com/services/kitchen-remodel-plumbing-san-antonio/)
+
+### Commercial Plumbing
+- [Commercial Plumbing](https://starkplumbingsolutions.com/services/commercial-plumbing-san-antonio/)
+
+## San Antonio Neighborhood and Area Pages
+
+Each link below represents a proposed or published geographic landing page. See the page or contact the site to confirm specific service coverage.
+- [Alamo Heights](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/alamo-heights/)
+- [Alamo Ranch](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/alamo-ranch/)
+- [Beacon Hill](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/beacon-hill/)
+- [Brooks Area](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/brooks-area/)
+- [Bulverde Village](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/bulverde-village/)
+- [Camelot](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/camelot/)
+- [Castle Hills](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/castle-hills/)
+- [Churchill Estates](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/churchill-estates/)
+- [Culebra Road Corridor](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/culebra-road-corridor/)
+- [Dellcrest](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/dellcrest/)
+- [Dignowity Hill](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/dignowity-hill/)
+- [Downtown](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/downtown-san-antonio/)
+- [Eastwood Village](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/eastwood-village/)
+- [Encino Park](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/encino-park/)
+- [Five Points](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/five-points/)
+- [Government Hill](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/government-hill/)
+- [Great Northwest](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/great-northwest/)
+- [Harlandale](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/harlandale/)
+- [Highland Hills](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/highland-hills/)
+- [Highland Park](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/highland-park/)
+- [Hot Wells](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/hot-wells/)
+- [Jefferson](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/jefferson/)
+- [King William](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/king-william/)
+- [Kirby](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/kirby/)
+- [La Cantera](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/la-cantera/)
+- [Lackland Terrace](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/lackland-terrace/)
+- [Lavaca](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/lavaca/)
+- [Leon Springs](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/leon-springs/)
+- [Medical Center](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/medical-center/)
+- [Mission Del Lago](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/mission-del-lago/)
+- [Mission San Jose](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/mission-san-jose/)
+- [Monte Vista](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/monte-vista/)
+- [North Star](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/north-star/)
+- [Northeast Crossing](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/northeast-crossing/)
+- [Northern Hills](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/northern-hills/)
+- [Oak Park Northwood](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/oak-park-northwood/)
+- [Oakland Estates](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/oakland-estates/)
+- [Olmos Park](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/olmos-park/)
+- [Palo Alto Area](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/palo-alto-area/)
+- [Pearl District](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/pearl-district/)
+- [Prospect Hill](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/prospect-hill/)
+- [Shavano Park](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/shavano-park/)
+- [Shearer Hills Ridgeview](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/shearer-hills-ridgeview/)
+- [South Park](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/south-park/)
+- [South](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/south-san-antonio/)
+- [Southtown](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/southtown/)
+- [Stone Oak](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/stone-oak/)
+- [Terrell Hills](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/terrell-hills/)
+- [The Dominion](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/the-dominion/)
+- [The Rim](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/the-rim/)
+- [Thousand Oaks](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/thousand-oaks/)
+- [Timberwood Park](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/timberwood-park/)
+- [Tobin Hill](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/tobin-hill/)
+- [University Heights](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/university-heights/)
+- [UTSA Area](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/utsa-area/)
+- [Westover Hills](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/westover-hills/)
+- [Wheatley Heights](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/wheatley-heights/)
+- [Windcrest](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/windcrest/)
+- [Woodlake](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/woodlake/)
+- [Woodlawn Lake](https://starkplumbingsolutions.com/service-areas/san-antonio-tx/woodlawn-lake/)
+
+## Additional Information
+- [Privacy Policy](https://starkplumbingsolutions.com/privacy-policy-stark-plumbing-solutions/)
+- [Terms](https://starkplumbingsolutions.com/terms-stark-plumbing-solutions/)
+- [XML Sitemap](https://starkplumbingsolutions.com/sitemap.xml): Canonical URL discovery when deployed at this address.
+
+## Content Guidance
+- Service descriptions are informational and should not be taken as proof of current provider availability, qualifications, licensing, pricing, or emergency response times.
+- For urgent natural gas hazards, evacuate and contact emergency services and the gas utility from a safe location.
+- Consult individual service and location pages for the details relevant to a specific plumbing need.
